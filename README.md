@@ -12,6 +12,3 @@
 <h3 align="center">Algorithm</h3>
 <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnwn3311">
-<br>
-<img src="http://mazandi.herokuapp.com/api?handle=dnwn3311">
-</p>
