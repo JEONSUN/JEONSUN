@@ -1,5 +1,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONSUN)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONSUN&hide=html,typescript,jupyter%20notebook,javascript,makefile&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnwn3311">
 
 
 <h3 align="center">Skills</h3>
@@ -8,9 +11,3 @@
 <!-- <a  href ="https://excellent-clipper-3ca.notion.site/a8b1b9927ace4f20abd070ed9c1015cd"> -->
 <!-- <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> -->
 </p>
-
-<br>
-
-<h3 align="center">Algorithm</h3>
-<p align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dnwn3311">
